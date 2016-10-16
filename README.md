@@ -7,9 +7,7 @@
 - 	[Linux](https://www.vivaolinux.com.br/dica/Como-instalar-o-Python-351 "Instalação no Linux Dica")
 
 ## Primeiro exemplo
-###
 
-##
 
 
 
